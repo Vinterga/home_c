@@ -5,7 +5,8 @@
 #include <stdlib.h>     // для exit
 #include <math.h>       // для fabs, isnan
  
-#include "functions.h"  // мои функции f1, f2, f3 #include "root.h"       // функция поиска корня
+#include "functions.h"  // мои функции f1, f2, f3 
+#include "root.h"       // функция поиска корня
 #include "integral.h"   // функция интеграла (пока заглушка)
 #include "test.h"       // тесты
 #include <locale.h>     // локаль
